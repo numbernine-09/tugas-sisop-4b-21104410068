@@ -12,6 +12,6 @@
 
 |  |  |
 |--|--|
-| NIM | **nim** |
-| Nama Lengkap | **nama** |
+| NIM | **21104410068** |
+| Nama Lengkap | **Rangga Krisna Putra** |
 | Kelas | TI-4B |
